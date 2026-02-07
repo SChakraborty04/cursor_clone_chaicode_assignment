@@ -27,7 +27,23 @@ This project is a frontend clone of the Cursor.com website, focusing on:
 - ✅ **Try Section** - Final CTA encouraging downloads
 - ✅ **Footer** - Comprehensive footer with multiple navigation columns, theme switcher, and language selector
 
-## 🛠 Technologies Used
+## � Screenshots
+
+### Desktop View
+![Homepage Hero Section](./screenshots/hero.png)
+*Hero section with main headline and CTA*
+
+![Reviews Section](./screenshots/review.png)
+*Testimonials from industry leaders*
+
+![Feature Grid](./screenshots/feature-grid.png)
+*Stay on the frontier section with 3-column layout*
+
+![Footer](./screenshots/footer.png)
+*Complete footer with navigation and controls*
+
+
+## �🛠 Technologies Used
 
 - **HTML5** - Semantic markup with proper accessibility attributes
 - **CSS3** - Modern styling including:
